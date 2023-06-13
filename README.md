@@ -3,17 +3,17 @@
 
 ![icon-dark (1)](https://github.com/5sControl/.github/assets/94960397/0fa9d2f7-954c-40a1-84a8-7e28e7c3c969)
 
-https://drive.google.com/file/d/19oVaTs6p2KYRR8h1pcc-xXMIyvPHUvHT/view?usp=sharing
-
+- *[5SControl](https://drive.google.com/file/d/19oVaTs6p2KYRR8h1pcc-xXMIyvPHUvHT/view?usp=sharing)*
+ 
 In today's fast-paced and technologically driven world, businesses are constantly striving to optimize their operations for maximum efficiency and profitability. The key to achieving this lies in the ability to monitor and control the execution of a technologically necessary number of operations with ease. That's where 5S Control comes in. Our developers are very good with the code. At the same time our sales managers and technical support experts are ready to respond to your message as soon as possible. They will help the users get started.
 
 Unleash productivity with 5S Control! Our computer vision & artificial intelligence-powered solutions turn video streams & other data into actionable charts, reducing costs, cutting waste and boosting efficiency. Track your progress with ease. With 5S Control, success is just a data point away!
 
 YouTube:
-https://www.youtube.com/@5scontrol
+- *[5SControl](https://www.youtube.com/@5scontrol)*
 
 Our presentation
-https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit?usp=sharing
+- *[5SControl](https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit?usp=sharing)*
 
 Once the area you want to put under control has been determined, you will need:
 
