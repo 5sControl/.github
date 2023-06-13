@@ -1,6 +1,8 @@
 # .github
 5SControl
 
+![icon-dark (1)](https://github.com/5sControl/.github/assets/94960397/0fa9d2f7-954c-40a1-84a8-7e28e7c3c969)
+
 https://drive.google.com/file/d/19oVaTs6p2KYRR8h1pcc-xXMIyvPHUvHT/view?usp=sharing
 
 In today's fast-paced and technologically driven world, businesses are constantly striving to optimize their operations for maximum efficiency and profitability. The key to achieving this lies in the ability to monitor and control the execution of a technologically necessary number of operations with ease. That's where 5S Control comes in. Our developers are very good with the code. At the same time our sales managers and technical support experts are ready to respond to your message as soon as possible. They will help the users get started.
