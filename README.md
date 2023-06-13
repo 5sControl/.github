@@ -2,6 +2,7 @@
 5SControl
 
 Logo 
+
 file:///C:/Users/Lenovo/Downloads/icon-dark.svg
 
 In today's fast-paced and technologically driven world, businesses are constantly striving to optimize their operations for maximum efficiency and profitability. The key to achieving this lies in the ability to monitor and control the execution of a technologically necessary number of operations with ease. That's where 5S Control comes in. Our developers are very good with the code. At the same time our sales managers and technical support experts are ready to respond to your message as soon as possible. They will help the users get started.
