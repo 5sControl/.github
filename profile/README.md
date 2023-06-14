@@ -18,28 +18,46 @@ YouTube:
 Our presentation
 - *[5SControl](https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit?usp=sharing)*
 
-Once the area you want to put under control has been determined, you will need:
+**Once the area you want to put under control has been determined, you will need:**<br>
+<br>
+- ***IP-camera(-s)***<br> 
+- **PC/laptop (acts as a server part)** <br>
+- ***Сables, housings, mounts***<br>
+- ***Switches (a router) and power supplies***<br>
 
-IP-camera(-s)* 
-PC/laptop (acts as a server part)** 
-Сables, housings, mounts
-Switches (a router) and power supplies
-*minimal tech requirements for an IP-camera: 
-supports RTSP (Real-Time Streaming Protocol) & ONVIF (Open Network Video Interface Forum) compatible
-Note: when using the min-max algorithm, the camera must be level.
-**5S Control PC/laptop requirements (Minimal):
-OS: Ubuntu 20.04
-Processor: Intel Core i7-6700
-Memory: 16 GB RAM
-Graphics: Intel HD Graphics 520
-Storage: 500 GB available space
-Power: 400 watt
-5S Control PC/laptop requirements (Recommended):
-OS: Ubuntu 20.04
-Processor: Intel Core i5-10400 or AMD Ryzen 5 5600X
-Memory: 32 GB RAM
-Storage: 3 TB available space
-Power: 800 watt
+<br>
+
+*minimal tech requirements for an IP-camera:* <br>
+
+<br>
+
+- ***supports RTSP (Real-Time Streaming Protocol) & ONVIF (Open Network Video Interface Forum) compatible***<br>
+- ***Note: when using the min-max algorithm, the camera must be level.***<br>
+
+<br>
+
+**5S Control PC/laptop requirements (Minimal):**<br>
+
+<br>
+
+- ***OS: Ubuntu 20.04***<br>
+- ***Processor: Intel Core i7-6700***<br>
+- ***Memory: 16 GB RAM***<br>
+- ***Graphics: Intel HD Graphics 520***<br>
+- ***Storage: 500 GB available space***<br>
+- ***Power: 400 watt***<br>
+
+<br>
+
+**5S Control PC/laptop requirements (Recommended):**<br>
+
+<br>
+
+- ***OS: Ubuntu 20.04***<br>
+- ***Processor: Intel Core i5-10400 or AMD Ryzen 5 5600X***<br>
+- ***Memory: 32 GB RAM***<br>
+- ***Storage: 3 TB available space***<br>
+- ***Power: 800 watt***<br>
 
 <!--
 
