@@ -15,7 +15,7 @@ Unleash productivity with 5S Control! Our computer vision & artificial intellige
 YouTube:
 - *[5SControl](https://www.youtube.com/@5scontrol)*
 
-Our presentation
+Our presentation:
 - *[5SControl](https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit?usp=sharing)*
 
 **Once the area you want to put under control has been determined, you will need:**<br>
