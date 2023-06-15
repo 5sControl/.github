@@ -27,7 +27,7 @@ Our presentation:
 
 <br>
 
-***minimal tech requirements for an IP-camera:*** <br>
+**minimal tech requirements for an IP-camera:** <br>
 
 <br>
 
