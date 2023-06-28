@@ -3,9 +3,9 @@
 <h1 align="center">Hi there 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"width="32"/></h1>
 
-<h2 algin="left">
-<img src="https://github.com/5sControl/.github/assets/94960397/0fa9d2f7-954c-40a1-84a8-7e28e7c3c969" height="320"width="320"/>
-</h2>
+<p align="center">
+  <img src="https://github.com/5sControl/.github/assets/94960397/0fa9d2f7-954c-40a1-84a8-7e28e7c3c969" alt="Имя изображения" height="320" width="320" />
+</p>
 
  
 In today's fast-paced and technologically driven world, businesses are constantly striving to optimize their operations for maximum efficiency and profitability. The key to achieving this lies in the ability to monitor and control the execution of a technologically necessary number of operations with ease. That's where 5S Control comes in. Our developers are very good with the code. At the same time our sales managers and technical support experts are ready to respond to your message as soon as possible. They will help the users get started.
