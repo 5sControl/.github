@@ -41,7 +41,7 @@ Our presentation:
 <br>
 
 - ***OS: Ubuntu 20.04***<br>
-- ***Processor: Intel Core i7-6700***<br>
+- ***Processor: Intel Core i5-10400 or AMD Ryzen 5 5600X***<br>
 - ***Memory: 16 GB RAM***<br>
 - ***Graphics: Intel HD Graphics 520***<br>
 - ***Storage: 500 GB available space***<br>
@@ -54,7 +54,7 @@ Our presentation:
 <br>
 
 - ***OS: Ubuntu 20.04***<br>
-- ***Processor: Intel Core i5-10400 or AMD Ryzen 5 5600X***<br>
+- ***Processor: Intel Core i7-6700***<br>
 - ***Memory: 32 GB RAM***<br>
 - ***Storage: 3 TB available space***<br>
 - ***Power: 800 watt***<br>
