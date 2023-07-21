@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"width="32"/></h1>
 
 <p align="center">
-  <img src="https://github.com/5sControl/.github/assets/94960397/0fa9d2f7-954c-40a1-84a8-7e28e7c3c969" alt="Имя изображения" height="320" width="320" />
+  <img src="https://github.com/5sControl/.github/assets/131950264/d65c5be1-1cca-46a1-b564-ef4364f0dbc6" alt="Имя изображения" height = "320" />
 </p>
 
  
