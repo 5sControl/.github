@@ -1,4 +1,4 @@
-5SControl
+5controlS
 
 <h1 align="center">Hi there 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"width="32"/></h1>
@@ -8,15 +8,15 @@
 </p>
 
  
-In today's fast-paced and technologically driven world, businesses are constantly striving to optimize their operations for maximum efficiency and profitability. The key to achieving this lies in the ability to monitor and control the execution of a technologically necessary number of operations with ease. That's where 5S Control comes in. Our developers are very good with the code. At the same time our sales managers and technical support experts are ready to respond to your message as soon as possible. They will help the users get started.
+In today's fast-paced and technologically driven world, businesses are constantly striving to optimize their operations for maximum efficiency and profitability. The key to achieving this lies in the ability to monitor and control the execution of a technologically necessary number of operations with ease. That's where 5controlS comes in. Our developers are very good with the code. At the same time our sales managers and technical support experts are ready to respond to your message as soon as possible. They will help the users get started.
 
-Unleash productivity with 5S Control! Our computer vision & artificial intelligence-powered solutions turn video streams & other data into actionable charts, reducing costs, cutting waste and boosting efficiency. Track your progress with ease. With 5S Control, success is just a data point away!
+Unleash productivity with 5controlS! Our computer vision & artificial intelligence-powered solutions turn video streams & other data into actionable charts, reducing costs, cutting waste and boosting efficiency. Track your progress with ease. With 5controlS, success is just a data point away!
 
 YouTube:
-- *[5SControl](https://www.youtube.com/@5scontrol)*
+- *[5controlS](https://www.youtube.com/@5scontrol)*
 
 Our presentation:
-- *[5SControl](https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit?usp=sharing)*
+- *[5controlS](https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit?usp=sharing)*
 
 **Once the area you want to put under control has been determined, you will need:**<br>
 <br>
@@ -36,7 +36,7 @@ Our presentation:
 
 <br>
 
-**5S Control PC/laptop requirements (Minimal):**<br>
+**5controlS PC/laptop requirements (Minimal):**<br>
 
 <br>
 
@@ -49,7 +49,7 @@ Our presentation:
 
 <br>
 
-**5S Control PC/laptop requirements (Recommended):**<br>
+**5controlS PC/laptop requirements (Recommended):**<br>
 
 <br>
 
