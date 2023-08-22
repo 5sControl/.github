@@ -59,6 +59,9 @@ Our presentation:
 - ***Storage: 3 TB available space***<br>
 - ***Power: 800 watt***<br>
 
+<br>
+
+**Since 5controlS needs stable connection to the Internet, it is necessary to use wired Internet connection (not Wi-Fi).** 
 <!--
 
 **Here are some ideas to get you started:**
