@@ -1,8 +1,3 @@
-5controlS
-
-<h1 align="center">Hi there 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"width="32"/></h1>
-
 <p align="center">
   <img src="https://github.com/5sControl/.github/assets/131950264/d65c5be1-1cca-46a1-b564-ef4364f0dbc6" alt="Имя изображения" height = "320" />
 </p>
@@ -40,7 +35,7 @@ Our presentation:
 
 <br>
 
-- ***OS: Ubuntu 20.04***<br>
+- ***OS: Ubuntu 22.04***<br>
 - ***Processor: Intel Core i5-10400 or AMD Ryzen 5 5600X***<br>
 - ***Memory: 16 GB RAM***<br>
 - ***Graphics: Intel HD Graphics 520***<br>
@@ -53,7 +48,7 @@ Our presentation:
 
 <br>
 
-- ***OS: Ubuntu 20.04***<br>
+- ***OS: Ubuntu 22.04***<br>
 - ***Processor: Intel Core i7-6700***<br>
 - ***Memory: 32 GB RAM***<br>
 - ***Storage: SSD with 3 TB available space***<br>
