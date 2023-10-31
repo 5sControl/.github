@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/5sControl/5s-user-documentation/blob/main/assets/Property%201%3DVariant4.png" alt="Имя изображения" height = "60" />
-</p>
-<br><br>
-
 **[5controlS](https://5controls.com/)** (5S) is an open source AI-powered manufacturing operations platform that helps companies **improve productivity**, **eliminate waste**, and **enhance workplace safety** using computer vision (CV) and machine learning (ML).
 
 The platform **generates detailed reports** to provide insights on how processes can be optimized.
