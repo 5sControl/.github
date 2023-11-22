@@ -1,4 +1,4 @@
-**[5controlS](https://5controls.com/)** (5S) is an open source AI-powered manufacturing operations platform that helps companies **improve productivity**, **eliminate waste**, and **enhance workplace safety** using computer vision (CV) and machine learning (ML).
+**[5controlS](https://5controls.com/)** (5S) is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies **improve productivity**, **eliminate waste**, and **enhance workplace safety** using computer vision (CV) and machine learning (ML).
 
 The platform **generates detailed reports** to provide insights on how processes can be optimized.
 
