@@ -1,4 +1,4 @@
-**[5controlS](https://5controls.com/)** (5S) is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies **improve productivity**, **eliminate waste**, and **enhance workplace safety** using computer vision (CV) and machine learning (ML).
+**[5sControl](https://5scontrol.com/)** (5S) is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies **improve productivity**, **eliminate waste**, and **enhance workplace safety** using computer vision (CV) and machine learning (ML).
 
 The platform **generates detailed reports** to provide insights on how processes can be optimized.
 
@@ -6,7 +6,7 @@ Plug in your ML-algorithms or some of the Official 5s algorithms and get a **rea
 
 <br>
 
-For **absolutely free**, you can install 5controlS on your computer, connect **up to 10 cameras** and get access to:
+For **absolutely free**, you can install 5sControl on your computer, connect **up to 10 cameras** and get access to:
 - violation reports
 - missing operation reports
 - workplace load reports
