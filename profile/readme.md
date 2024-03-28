@@ -36,7 +36,7 @@ After everything is set up your system will **work the following way**:
 
 <div align='center'>
   
-**Learn more about 5controlS<br>
+**Learn more about 5sControl<br>
 [PRESENTATION](https://docs.google.com/presentation/d/1s6lglaP1xEl5JKceF5jyWl48veKENmfZ8EkC54rYZuc/edit#slide=id.g2462e1f2149_0_337) •
 [WEBSITE](https://5controls.com/) •
 [YOUTUBE](https://www.youtube.com/@5scontrol)**
