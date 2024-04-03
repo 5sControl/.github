@@ -23,7 +23,7 @@ To put your production under 5S control you need **some hardware**:
 - Сables, housings, mounts<br>
 - Switches (a router) and power supplies<br>
 
-[System Requirements for 5controlS](https://github.com/5sControl/5s-user-documentation/wiki/0.-System-Requirements)
+[System Requirements for 5sControl](https://github.com/5sControl/5s-user-documentation/wiki/0.-System-Requirements)
 
 After everything is set up your system will **work the following way**:
 
